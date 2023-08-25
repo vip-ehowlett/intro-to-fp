@@ -165,5 +165,3 @@ As you can see, the types are the same: `('a -> 'b) -> ( 'b -> 'c ) -> 'a -> 'c`
 ## Conclusion
 
 Well, that's it for the basics. Congratulations on being a functional programmer! Now go out and spread the word about how awesome functional programming is!
-#   i n t r o - t o - f p  
- 
